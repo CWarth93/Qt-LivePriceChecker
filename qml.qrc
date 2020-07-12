@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qml/CurrencyTab.qml</file>
+        <file>img/bitcoin.png</file>
+        <file>img/ethereum.png</file>
+        <file>img/ripple.png</file>
+        <file>img/stellar.png</file>
+        <file>main.cpp</file>
+    </qresource>
+</RCC>
